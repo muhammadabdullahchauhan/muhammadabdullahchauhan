@@ -1,6 +1,6 @@
-# Hi, I'm Abdullah Chauhan 👋
+# Hi, I'm Muhammad Abdullah Chauhan 👋
 
-### Full Stack Developer | Pakistan 🇵🇰
+### MERN Stack Developer  |  Frontend Specialist  |  AI-Powered Development Workflows | Pakistan 🇵🇰
 
 I build fast, clean, and scalable web applications.
 Currently open to Full Stack Developer roles.
