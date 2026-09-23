@@ -1,43 +1,93 @@
-# Hi, I'm Muhammad Abdullah Chauhan 👋
+# 👋 Hi, I'm Muhammad Abdullah Chauhan
 
-### MERN Stack Developer  |  Frontend Specialist  |  AI-Powered Development Workflows | Pakistan 🇵🇰
+### Full Stack MERN Developer | React.js & Next.js | Node.js & MongoDB
 
-I build fast, clean, and scalable web applications.
-Currently open to Full Stack Developer roles.
+I’m a Full Stack MERN Developer who enjoys turning ideas into modern, responsive, and practical web applications.
+
+I started my journey with frontend development and have been continuously expanding toward full-stack development — learning how frontend, backend, APIs, databases, and application architecture work together.
+
+I also use **AI-assisted development and vibe coding** as part of my workflow to explore ideas faster, debug problems, understand unfamiliar code, and improve development productivity — while keeping ownership of the code and implementation.
+
+---
+
+## 🚀 What I Do
+
+* 💻 Build modern web applications
+* 🎨 Create responsive and user-focused interfaces
+* 🔗 Integrate REST APIs and backend services
+* 🧩 Build reusable and maintainable components
+* 🗄️ Work with databases and full-stack application flows
+* 🤖 Use AI tools to accelerate development and problem-solving
+* 📚 Continuously learn and improve my development skills
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend:**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)
+**Frontend**
 
-**Backend:**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+`React.js` · `Next.js` · `JavaScript` · `TypeScript` · `HTML5` · `CSS3` · `Tailwind CSS` · `Sass/SCSS`
+
+**Backend**
+
+`Node.js` · `Express.js` · `REST APIs`
+
+**Database**
+
+`MongoDB`
+
+**Tools & Workflow**
+
+`Git` · `GitHub` · `VS Code` · `Cursor` · `AI-Assisted Development`
 
 ---
 
-## 🚀 Featured Project
+## 🧠 Currently Learning
+
+* Advanced Full Stack Development
+* Backend Architecture
+* TypeScript
+* Next.js
+* API Design & Integration
+* Database Design
+* AI-Assisted Development & Vibe Coding
+
+---
+
+## 📌 Featured Projects
 
 ### 🎙️ Tone Weaver
-> AI-powered voice transformation and accent conversion web app
 
-- Built with React, FastAPI, Python, MongoDB, AWS S3
-- Real-time audio processing pipeline
-- End-to-end full stack development
+AI-powered voice and accent conversion web application built as my Final Year Project.
+
+**Focus:** Real-time audio processing, accent conversion, API integration, and modern web interfaces.
+
+### 🌐 Full Stack Web Projects
+
+Building and experimenting with full-stack applications to strengthen my experience across frontend, backend, APIs, databases, and deployment.
+
+> More projects are being built and added regularly.
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Activity
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadabdullahchauhan)
+I use GitHub to build, experiment, learn, and document my development journey.
+
+Every project is an opportunity to understand something better, solve a new problem, and write better code.
 
 ---
 
-💼 **Open to Work** — Full Stack Developer roles in Pakistan
+## 🤝 Let's Connect
+
+I'm open to opportunities, collaborations, interesting projects, and conversations around web development and technology.
+
+**LinkedIn:** [Muhammad Abdullah Chauhan](https://www.linkedin.com/in/muhammadabdullahchauhan/)
+
+**Portfolio:** Coming Soon 🚀
+
+---
+
+### 💡 Build. Break. Learn. Improve. Repeat.
+
+*Always learning. Always building.*
